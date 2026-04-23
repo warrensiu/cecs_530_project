@@ -7,3 +7,7 @@ This project provides a comprehensive benchmarking suite designed to analyze the
 - Jupyter Notebook
 - NVIDIA GPU
 - LLaMA3
+  
+```bash
+pip install nvidia-ml-py
+```
