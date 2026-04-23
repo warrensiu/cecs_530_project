@@ -3,3 +3,7 @@ This project provides a comprehensive benchmarking suite designed to analyze the
 ## Stephen Shao, Warren Siu, Huayue Ding
 
 # Requirements
+- Python 3.13.5
+- Jupyter Notebook
+- NVIDIA GPU
+- LLaMA3
