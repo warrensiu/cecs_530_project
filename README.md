@@ -63,9 +63,7 @@ Our analysis maps measurements to architectural causes, specifically:
 
 ## 📁 Project Structure
 * `benchmark.ipynb`: Primary notebook containing model instrumentation and data collection.
-* `/data`: Raw timing data and logs from multiple trials.
-* `/analysis`: Scripts and notebooks for generating scaling plots and bottleneck narratives.
-
+* `/images`: Raw images of results from benchmark.ipynb
 ## 🔧 Installation & Usage
 
 ### Prerequisites
