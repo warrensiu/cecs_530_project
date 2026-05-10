@@ -68,6 +68,7 @@ Our analysis maps measurements to architectural causes, specifically:
 * Python 3.10+
 * PyTorch / Transformers
 * Profiling tools (e.g., `torch.profiler` or Linux `perf`)
+* `pip install torch numpy matplotlib nvidia-ml-py`
 
 ### Running the Benchmark
 1. Open Jupyter Notebook 
