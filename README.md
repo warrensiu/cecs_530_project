@@ -72,7 +72,11 @@ Our analysis maps measurements to architectural causes, specifically:
 * Profiling tools (e.g., `torch.profiler` or Linux `perf`)
 
 ### Running the Benchmark
-Open `benchmark.ipynb` and execute the cells to initialize the model and start the measurement harness.
+1. Open Jupyter Notebook 
+2. Import benchmark.ipynb
+3. Open `benchmark.ipynb`
+4. Execute the cells to initialize the model
+5. Start the measurement harness
 
 ---
 
