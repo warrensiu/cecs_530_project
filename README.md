@@ -1,9 +1,7 @@
 # LLaMA Token-Generation Latency Benchmarking
 
 ## 📌 Project Overview
-This repository contains the benchmarking harness and performance analysis for investigating **time-per-generated-token** in LLaMA-style models. While aggregate throughput is a common metric, user-perceived quality in interactive LLM applications is dominated by per-token latency. 
-
-This project focuses on decomposing inference latency into its architectural components to identify hardware and system-level bottlenecks.
+This repository contains the benchmarking harness and performance analysis for investigating **time-per-generated-token** in LLaMA-style models. While aggregate throughput is a common metric, user-perceived quality in interactive LLM applications is dominated by per-token latency. The project focuses on decomposing inference latency into its architectural components to identify hardware and system-level bottlenecks.
 
 ## 🛠️ Key Objectives
 * **Instrument the Inference Stack:** Measure latency across various stages of the LLaMA pipeline.
