@@ -1,5 +1,4 @@
 # LLaMA Token-Generation Latency Benchmarking
-### Performance Forensics: Measurement, Bottleneck Attribution, and Architectural Implications
 
 ## 📌 Project Overview
 This repository contains the benchmarking harness and performance analysis for investigating **time-per-generated-token** in LLaMA-style models. While aggregate throughput is a common metric, user-perceived quality in interactive LLM applications is dominated by per-token latency. 
