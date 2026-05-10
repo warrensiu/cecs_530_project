@@ -18,7 +18,7 @@ As per project constraints, this benchmark focuses on **autoregressive token gen
 * **Batch Size:** 1 (required baseline).
 * **Input/Output Length:** Tested with fixed prompt and generation lengths (e.g., 128 tokens).
 * **Architecture:** LLaMA-style Transformer models.
-* **Hardware:** Benchmarked on [Insert your Hardware, e.g., NVIDIA RTX GPU / Apple Silicon CPU].
+* **Hardware:** Benchmarked on AMD Ryzen 7 5700X 8-Core Processor, NVIDIA GeForce RTX 4070.
 
 ---
 
